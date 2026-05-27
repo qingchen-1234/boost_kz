@@ -97,7 +97,7 @@ public BkzMenu_Handler(id, menu, item) {
     menu_destroy(menu);
 
     // 存点、组队、离队后重新打开菜单。读点和倒计时不需要重开，以免挡视野
-    if (choice == 1 || choice == 3 || choice == 4) {
+    if (choice == 1 || choice == 2 || choice == 3 || choice == 4 || choice == 5) {
         Cmd_BkzMenu(id);
     }
 
