@@ -2,7 +2,7 @@
 #include <fakemeta>
 
 #define PLUGIN_NAME "[KZ] Co-op Basic (Ultimate)"
-#define VERSION "1.2"
+#define VERSION "1.7"
 #define AUTHOR "AI Assistant"
 
 #define PREFIX "[Co-op KZ]"
