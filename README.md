@@ -1,12 +1,8 @@
-这是一份为你量身定制的 `README.md` 文件。它不仅详细记录了插件的功能和安装方法，还回顾了我们这几天一步步排坑、优化的开发历程，非常适合作为你这个项目的“毕业证书”和代码存档说明！
-
-你可以直接复制下面的内容，保存为 `README.md` 放在你的项目文件夹中。
-
 ---
 
 # 🌟 CS 1.6 Co-op KZ (双人跳跃插件) 🌟
 
-![Version](https://img.shields.io/badge/Version-1.9_Final-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.2_Final-brightgreen)
 ![Compatibility](https://img.shields.io/badge/Engine-AMXX_1.8%2B%20%7C%20SiMen-blue)
 ![Module](https://img.shields.io/badge/Module-Fakemeta-orange)
 
